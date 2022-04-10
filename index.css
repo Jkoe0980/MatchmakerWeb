@@ -1,0 +1,47 @@
+h1{ color: #000000;
+text-align: center; font-size: 36pt;} 
+
+h3 {color:#0e55d8;
+text-align: center; font-size: 18pt; }
+
+p.main {text-align: justify; font-size: 17pt; margin-left: 25%;
+     margin-right: 25%; color: #282828;}
+
+.CI {
+    border: 5px outset #282828; border-radius: 5px; border-style: double; width:1510px ; height: 300px;
+    background-color: #facce9d2; line-height: 200%;
+    text-align: justify;
+     position:center, left 33%, top 30%;
+}
+h2.box {text-align: center;}
+ul {list-style: square inside url(sqpurple.gif);}
+ul.Req2 {list-style: square inside url(sqpurple.gif); 
+    text-align: center; font-size: 13pt;}
+ img.Profile {border: 5px outset #282828; position: fixed; right: 2.5%; 
+    top: 10%;}
+
+
+        /*  Individual Question formatting*/
+
+    label.Question1 {text-align: center; font-size: 17pt; margin-left: 33%;
+        margin-right: 0.5%; color: #ff0000;;}
+
+    label.Question2 {text-align: center; font-size: 17pt; margin-left: 33%;
+        margin-right: 0.5%; color: #dd00ff;;}
+
+    label.Question3 {text-align: center; font-size: 17pt; margin-left: 33%;
+        margin-right: 0.5%; color: #ff00a6;;}
+
+    label.Question4 {text-align: center; font-size: 17pt; margin-left: 33%;
+        margin-right: 0.5%; color: #dd00ff;;}
+
+    label.Question5 {text-align: center; font-size: 17pt; margin-left: 33%;
+        margin-right: 0.5%; color: #ff0000;;}
+
+
+
+
+
+body {
+    background-color:#f675c6d2;
+}
